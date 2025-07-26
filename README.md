@@ -3,7 +3,7 @@
 **EcoRent** is a fictional eco-friendly vehicle rental service. This landing page is built using only HTML and CSS, focusing on clean design, responsiveness, and sustainable branding.
 
 ### 🔗 Live Site
-[View EcoRent Landing Page](https://yourusername.github.io/EcoRent-Landing-Page)
+[View EcoRent Landing Page](https://iamsanjaykumar07.github.io/Ecorent-Landing-Page/)
 
 
 ## 📁 Features
